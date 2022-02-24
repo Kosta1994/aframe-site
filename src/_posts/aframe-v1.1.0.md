@@ -24,4 +24,4 @@ Read the [release notes and changelog](https://github.com/aframevr/aframe/releas
 
 Consider supporting A-Frame development by buying a [gorgeous t-shirt](https://cottonbureau.com/products/fragment)
 
-Happy immersive Christmas! 🎄
+Happy immersive Christmas 🎄
